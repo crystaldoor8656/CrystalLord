@@ -11,7 +11,7 @@ import SwiftUI
 struct CrystalLordApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
